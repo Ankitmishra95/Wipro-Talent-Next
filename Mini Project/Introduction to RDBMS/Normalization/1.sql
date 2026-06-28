@@ -1,4 +1,3 @@
-
 -- Create Table
 CREATE TABLE Member_Hobby (
     Member_Id NUMBER,
@@ -24,3 +23,4 @@ COMMIT;
 
 -- Display the Normalized Table
 SELECT * FROM Member_Hobby;
+
